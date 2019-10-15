@@ -1,0 +1,156 @@
+
+
+.size-heading h5{
+    background-color:grey;
+    width:40px;
+    font-weight: 600;
+}
+
+.size{
+    background-color:grey;
+    width:0.5px;
+    height: 40px;
+    text-align:center;
+    margin:10px;
+    padding-left: 10px;
+    padding-right: 30px;
+    border-radius:50%;
+
+}
+
+.product-number{
+    position: relative;
+    top:20px;
+    font-weight: 600;
+}
+
+.size h6{
+    position:relative;
+    top:5px;
+    left:0px;
+    display:inline-block;
+    font-weight: 700;
+}
+
+
+
+.shipping{
+    background-color:black;
+    margin:10px;
+    padding-left: 10px;
+    padding-right: 50px;
+    float:right;
+    color:white;
+}
+
+img{
+    height:500px;
+}
+
+.thumbnail-fix{
+    width:210px;
+    border:none;
+    margin-bottom: none;
+
+}
+
+.cart{
+    background-color: black;
+    color:white;
+    padding:10px 10px;
+    text-align: center;
+}
+
+.shipping{
+    position:relative;
+    top:35px;
+    float:right;
+    padding-right:6px;
+    margin-right: 0px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:6px;
+}
+
+.description h5{
+    text-align:center;
+}
+
+.price{
+    border-top:3px solid gold;
+    margin top:10px;
+    margin-bottom:40px;
+    padding-top: 10px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.price-role{
+    margin top:10px;
+    margin-bottom:40px;
+    padding-top: 10px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.second-dgt{
+    border-top:3px solid gold;
+    margin top:10px;
+    margin-bottom:40px;
+    padding-top: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    color:white;
+}
+
+.msg{
+    color:grey;
+}
+
+.main-price{
+    margin-top:30px;
+    margin-bottom:20px;
+}
+
+.alt-price{
+    color:grey;
+}
+
+.star{
+    padding: 5px 10px;
+    background-color: grey;
+}
+
+.numb-btn{
+    padding: 5px 10px;
+
+
+}
+
+
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+    margin-left: 2px;
+}
+
+.sizes{
+    margin:0px;
+}
+
+.thumbnail-fix > img{
+    height:300px;
+}
+
+
+.no-price{ visibility: hidden;
+
+}
+
+
